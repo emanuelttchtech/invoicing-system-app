@@ -4,7 +4,6 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
   <title> Web Development Company | TTCH Technologies</title>
   <meta name="contact" content="www.ttchtech.co.za/index#contact">
   <meta name="copyright" content="TTCH Technologies 2024">
@@ -30,7 +29,7 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
   <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-D52PRN3XYV"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-D52PRN3XYV"></script>
 
 
   <!-- =======================================================
@@ -45,23 +44,19 @@
 <body>
 
   <!-- ======= Header ======= -->
-   <!-- ======= Header ======= -->
+  <!-- ======= Header ======= -->
   <header id="header" class="fixed-top ">
     <div class="container d-flex justify-content-between">
 
-      <!--<h1 class="logo me-auto"><a href="index.html">IBI Solutions</a></h1>-->
       <!-- Uncomment below if you prefer to use an image logo -->
-      <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
+      <a href="index.html" class="logo me-auto"><img src="assets/img/ttch.png" alt="" class="img-fluid"></a>
 
       <nav id="navbar" class="navbar text-center">
         <ul>
-          <li><a class="nav-link scrollto" href="index.html">Home</a></li>
-          <li><a class="nav-link scrollto" href="index.html#about">About</a></li>
-          <li><a class="nav-link scrollto" href="blogs">Blogs</a></li>
-          <li class="nav-link dropdown active"><a href="#services"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
-          </li>
-                   <li><a class="nav-link scrollto" href="index.html#contact">Contact</a></li>
-          <li><a class="getstarted scrollto" href="index.html#contact">Get a quote</a></li>
+          <li><a class="nav-link scrollto" href="index.html#contact">Insights</a></li>
+          <li><a class="nav-link scrollto" href="index.html#contact">Contact</a></li>
+          <li><a class="getstarted scrollto" href="index.html#contact">Login</a></li>
+          <li><a class="getstarted scrollto" href="index.html#contact">Sign Up</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -73,98 +68,155 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container">
-        <div class="row">
+      <div class="row d-flex align-items-center">
         <div class="col-lg-6">
-            <div class="backgroundd">
-         
-          <h2>TTCH Invoicing System</h2>
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint, quasi earum ab quae minima amet libero, magnam quas aliquam nisi corporis repellendus aliquid. Assumenda incidunt amet eligendi architecto neque aut.</p><br>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium maiores doloribus reiciendis impedit odit obcaecati debitis voluptatem suscipit est incidunt veritatis aut quos dolor nulla, iusto odio vel labore maxime.</p>
-        
+          <div class="backgroundd">
+            <h1 class="mb-4">TTCH Invoicing System</h1>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint, quasi earum ab quae minima amet libero, magnam quas aliquam nisi corporis repellendus aliquid. Assumenda incidunt amet eligendi architecto neque aut.</p><br>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium maiores doloribus reiciendis impedit odit obcaecati debitis voluptatem suscipit est incidunt veritatis aut quos dolor nulla, iusto odio vel labore maxime.</p>
+          </div>
         </div>
-        </div>
-        
-        <div class="left-pic col-lg-6">
+
+        <div class="col-lg-6">
+          <div class="right-pic">
             <img src="assets/img/bb.png" alt="Image">
+          </div>
         </div>
-        <div class="line">
-           <strong><hr></strong> 
-        </div>
-       
-        </div>
+
+        <hr class="mt-5">
+      </div>
+
     </div>
   </section>
 
-  <section id="hero" class="d-flex align-items-center">
+  <section id="main" class="d-flex align-items-center">
     <div class="container">
-        <div class="backgrounddd">
-            <h4>Get a simplified invoicing system for your business </h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae temporibus voluptate earum fugiat voluptatum tempore ipsam qui similique, quas incidunt illum nemo cumque quaerat numquam quae nostrum magnam placeat excepturi! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Adipisci voluptatibus blanditiis a eum. Natus beatae expedita corporis totam eius tempora rerum nihil exercitationem maiores dignissimos nostrum, obcaecati doloremque illo dolorem!</p><br>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus sequi, fuga qui dolorum voluptatum nisi dolorem fugit vero ea. Perferendis dolorem vitae rerum labore reprehenderit ipsam exercitationem quae nostrum necessitatibus. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem blanditiis est eligendi hic, iste repellat sit aperiam dicta ab ratione. Dolores, dolorem animi vero voluptatem doloribus itaque. Veniam, suscipit ratione?</p>
-           
-            <div class="backgrou mt-4">
-                <h4>Our Pricing </h4>
+      <div class="backgrounddd">
+        <h4>Get a simplified invoicing system for your business </h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae temporibus voluptate earum fugiat voluptatum tempore ipsam qui similique, quas incidunt illum nemo cumque quaerat numquam quae nostrum magnam placeat excepturi! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Adipisci voluptatibus blanditiis a eum. Natus beatae expedita corporis totam eius tempora rerum nihil exercitationem maiores dignissimos nostrum, obcaecati doloremque illo dolorem!</p><br>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus sequi, fuga qui dolorum voluptatum nisi dolorem fugit vero ea. Perferendis dolorem vitae rerum labore reprehenderit ipsam exercitationem quae nostrum necessitatibus. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem blanditiis est eligendi hic, iste repellat sit aperiam dicta ab ratione. Dolores, dolorem animi vero voluptatem doloribus itaque. Veniam, suscipit ratione?</p>
+
+        <div class="backgrou mt-4">
+          <h4>Our Pricing </h4>
         </div>
         <div class="row">
-            <div class="col">
-              <div class="border ">
-                <div>
-                  <div class="package">
-                    <h4>Free</h4>
-                  </div>
-                  <div class="button">
-                    <button type="submit" class="btn btn-primary">Get</button>
-                  </div>
-      
+          <div class="col-lg-4">
+            <div class="package-border">
+              <div class="package">
+                <h4>Free</h4>
+              </div>
+              <div class="package-list">
+                <div class="d-flex justify-content-between">
+                  <p>Number of companies</p>
+                  <p>4</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                  <p>Number of Clients</p>
+                  <p>4</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                  <p>Number of Quotes</p>
+                  <p>4</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                  <p>Number of Users</p>
+                  <p>4</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                  <p>Number of Invoices</p>
+                  <p>4</p>
                 </div>
               </div>
+                <button type="submit" class="btn btn-primary packagebtn">Get</button>
+
             </div>
-      
-      
-      
-            <div class="col">
-              <div class="border ">
-                <div>
-                  <div class="package">
-                    <h4>Basic</h4>
-                  </div>
-                  <div class="button">
-                    <button type="submit" class="btn btn-primary">Get</button>
-                  </div>
+          </div>
+
+
+
+          <div class="col-lg-4">
+            <div class="package-border">
+              <div class="package">
+                <h4>Basic</h4>
+              </div>
+              <div class="package-list">
+                <div class="d-flex justify-content-between">
+                  <p>Number of companies</p>
+                  <p>4</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                  <p>Number of Clients</p>
+                  <p>4</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                  <p>Number of Quotes</p>
+                  <p>4</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                  <p>Number of Users</p>
+                  <p>4</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                  <p>Number of Invoices</p>
+                  <p>4</p>
                 </div>
               </div>
+                <button type="submit" class="btn btn-primary packagebtn">Get</button>
+
             </div>
-      
-      
-            <div class="col">
-              <div class="border ">
-                <div>
-                  <div class="package">
-                    <h4>Premium</h4>
-                  </div>
-                  <div class="button">
-                    <button type="submit" class="btn btn-primary">Get</button>
-                  </div>
+          </div>
+
+          <div class="col-lg-4">
+            <div class="package-border">
+              <div class="package">
+                <h4>Premium</h4>
+              </div>
+              <div class="package-list">
+                <div class="d-flex justify-content-between">
+                  <p>Number of companies</p>
+                  <p>4</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                  <p>Number of Clients</p>
+                  <p>4</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                  <p>Number of Quotes</p>
+                  <p>4</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                  <p>Number of Users</p>
+                  <p>4</p>
+                </div>
+                <div class="d-flex justify-content-between">
+                  <p>Number of Invoices</p>
+                  <p>4</p>
                 </div>
               </div>
+                <button type="submit" class="btn btn-primary packagebtn">Get</button>
+
             </div>
-      
-      
-      
+          </div>
+
+
+
+
         </div>
-        </div>
-        
+      </div>
+
     </div>
-        
+
   </section>
 
 
-  
-  <div id="preloader"><div class="row justify-content-center">
-          <div class="col-lg-3">
-            <img class="logo_" src="assets/img/TTCH-Technologies.png">
-          </div>
-        </div></div>
+
+  <div id="preloader">
+    <div class="row justify-content-center">
+      <div class="col-lg-3">
+        <img class="logo_" src="assets/img/TTCH-Technologies.png">
+      </div>
+    </div>
+  </div>
   <!--<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a> -->
 
   <!-- Vendor JS Files -->
