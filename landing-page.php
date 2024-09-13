@@ -49,7 +49,7 @@
     <div class="container d-flex justify-content-between">
 
       <!-- Uncomment below if you prefer to use an image logo -->
-      <a href="index.html" class="logo me-auto"><img src="assets/img/ttch.png" alt="" class="img-fluid"></a>
+      <a href="index.html" class="logo me-auto"><img src="assets/img/logo-white.png" alt="" class="img-fluid"></a>
 
       <nav id="navbar" class="navbar text-center">
         <ul>
@@ -76,13 +76,11 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium maiores doloribus reiciendis impedit odit obcaecati debitis voluptatem suscipit est incidunt veritatis aut quos dolor nulla, iusto odio vel labore maxime.</p>
           </div>
         </div>
-
         <div class="col-lg-6">
           <div class="right-pic">
             <img src="assets/img/bb.png" alt="Image">
           </div>
         </div>
-
         <hr class="mt-5">
       </div>
 
@@ -95,7 +93,6 @@
         <h4>Get a simplified invoicing system for your business </h4>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae temporibus voluptate earum fugiat voluptatum tempore ipsam qui similique, quas incidunt illum nemo cumque quaerat numquam quae nostrum magnam placeat excepturi! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Adipisci voluptatibus blanditiis a eum. Natus beatae expedita corporis totam eius tempora rerum nihil exercitationem maiores dignissimos nostrum, obcaecati doloremque illo dolorem!</p><br>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus sequi, fuga qui dolorum voluptatum nisi dolorem fugit vero ea. Perferendis dolorem vitae rerum labore reprehenderit ipsam exercitationem quae nostrum necessitatibus. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem blanditiis est eligendi hic, iste repellat sit aperiam dicta ab ratione. Dolores, dolorem animi vero voluptatem doloribus itaque. Veniam, suscipit ratione?</p>
-
         <div class="backgrou mt-4">
           <h4>Our Pricing </h4>
         </div>
